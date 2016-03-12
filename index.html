@@ -1,68 +1,35 @@
-<!DOCTYPE html>
-<html class="full" lang="en">
-<!-- Make sure the <html> tag is set to the .full CSS class. Change the background image in the full.css file. -->
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+---
+layout: default
+title: Home
+---
 
-    <title>Pavel Jakubec</title>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 
-</head>
-
-<body>
-    <nav class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">	<!-- Navigation -->
-        <div class="container">
-            <div class="navbar-header">						<!-- Brand and toggle get grouped for better mobile display -->
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">Pavel Jakubec</a>
-            </div>
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">   <!-- Collect the nav links, forms, and other content for toggling -->
-                <ul class="nav navbar-nav">
-                    <li> <a href="/blog/">Blog</a> </li>
-                    <li> <a href="/code/">Code</a> </li>
-                    <li> <a href="/papers.html">Publications</a> </li>
-                </ul>
-            </div> 								<!-- /.navbar-collapse -->
-        </div> 								        <!-- /.container -->
-    </nav>
-
-    <div class="container">							<!-- Page Content -->
-        <div class="row">
-            <div class="col-md-4 col-sm-12">
-
-              <h3>Hello</h3>
-
-              <p>
-              I am working at Czech Univeristy of Life Sciences as a researcher in department of Ecology.
-              </p>
-              
-              <p>
-              Some text
-              </p>
-              
-              <p>
-              Some text
-              </p>
-
-              <p><a href="https://github.com/jakubecp"><i class="fa fa-github fa-2x"></i></a> 
-              <a href="https://www.linkedin.com/in/pavel-jakubec-11b06187/"><i class="fa fa-linkedin-square fa-2x"></i></a></p>
-              <a href="https://www.linkedin.com/in/pavel-jakubec-11b06187/"><i class="fa fa-linkedin-square fa-2x"></i></a></p>
-              <a href="https://www.researchgate.net/profile/Pavel_Jakubec2/"><i class="fa fa-linkedin-square fa-2x"></i></a></p>
-
-            </div>
-        </div> 								        <!-- /.row -->
-    </div>									<!-- /.container -->
-    <script src="http://eddelbuettel.github.io/bp/js/jquery-1.11.0.js"></script>				<!-- jQuery Version 1.11.0 -->
-    <script src="http://eddelbuettel.github.io/bp/js/bootstrap.min.js"></script>				<!-- Bootstrap Core JavaScript -->
-</body>
-
-</html>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Pavel Jakubec
+tagline:          'Website'
+description:      'Find me online 
+<a href="https://www.researchgate.net/profile/Pavel_Jakubec2">Research Gate</a> 
+<a href="http://khaar.rajce.idnes.cz/">photography</a>, 
+<a href="http://twitter.com/simplystats">@simplystats</a>, , and <a href="https://github.com/jakubecp">Github</a>.'
+url:              http://jtleek.github.io
+
+author:
+  name:           'Pavel Jakubec'
+  url:            https://github.com/jakubecp
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/jakubecp/jakubecp.github.io
