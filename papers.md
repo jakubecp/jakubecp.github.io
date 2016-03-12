@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers
+title: Papers and other 
 ---
 
 More info on my [Research Gate profile](https://www.researchgate.net/profile/Pavel_Jakubec2)
