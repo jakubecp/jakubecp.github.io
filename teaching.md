@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-I'm teaching Zoology I. and Ecologi and Ecological Methods here at CULS Prague. I am also involved in supervising master and bachelor thesis.
+I'm teaching Zoology I. and Ecology and Ecological Methods here at CULS Prague. I am also involved in supervising master and bachelor thesis.
 
 ## Topics for Thesis (Master and Bachelor)
 

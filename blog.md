@@ -3,6 +3,6 @@ layout: page
 title: Blog
 ---
 
-More info on my [Research Gate profile](https://www.researchgate.net/profile/Pavel_Jakubec2)
+This is probably not the best site to start the blog, because of absence of some features, but as a test it should be fine. :)
 
 
