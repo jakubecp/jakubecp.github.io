@@ -8,7 +8,19 @@ More info on my [Research Gate profile](https://www.researchgate.net/profile/Pav
 
 ### Grants
 
+* 2015 BV MVČR VI20152018027 Využití nekrofágních brouků (Coleoptera) ve forenzní entomologii: determinace a vývojové modely.
 
+* 2015 NF EHP-CZ02-OV-1-027-2015 Zmírnění důsledků fragmentace biotopů v různých typech krajiny České republiky.
+
+* 2015 IGA 20154221 Larvální morfologie práchnivců rodu _Choleva_ (Coleoptera: Leiodidae)
+
+* 2014 IGA 20144228 Vývojové a růstové modely preimaginálních stádií _Thanatophilus sinuatus_ (Coleoptera: Silphidae).
+
+* 2013 IGA 20134269 Variabilita rychlosti vývoje u brouků z podčeledi Cholevinae (Coleoptera: Leiodidae).
+
+* 2012 IGA 20124253 Vliv teploty na preimaginální vývoj práchnivců (Coleoptera: Leiodidae: Cholevinae).
+
+* 2009 IGA 200942110012 Ekologie mrchožroutovitých brouků (Coleoptera: Silphidae) v polních biotopech ČR
 
 ### Preprints
 
