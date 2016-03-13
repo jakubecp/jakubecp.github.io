@@ -1,6 +1,8 @@
 ---
----
 layout: page
 title: Blog
 ---
-Nothing in here
+
+More info on my [Research Gate profile](https://www.researchgate.net/profile/Pavel_Jakubec2)
+
+
