@@ -3,7 +3,7 @@ layout: page
 title: Grants, Papers and Proceedings
 ---
 
-More info on my [Research Gate profile](https://www.researchgate.net/profile/Pavel_Jakubec2)
+More info on my [Research Gate](https://www.researchgate.net/profile/Pavel_Jakubec2) profile
 
 
 ### Grants
@@ -71,6 +71,6 @@ _Biodiverzita 2012, sborník abstraktů konference 25. – 26. února 2012_. Če
 
 ### 2010
 
-* Jakubec P Chlumecká L Šifrová H & Štefůnová K (__2010__) Ekologie mrchožroutovitých brouků (Coleoptera: Silphidae) v polních biotopech ČR. In: Bryja J. & Zasadil P. (Eds.): _Zoologické dny Praha 2010. Sborník abstraktů z konference 11. – 12. února 2010._ Ústav biologie obratlovců AV ČR, Brno, p.
+* Jakubec P, Chlumecká L, Šifrová H & Štefůnová K (__2010__) Ekologie mrchožroutovitých brouků (Coleoptera: Silphidae) v polních biotopech ČR. In: Bryja J. & Zasadil P. (Eds.): _Zoologické dny Praha 2010. Sborník abstraktů z konference 11. – 12. února 2010._ Ústav biologie obratlovců AV ČR, Brno, p.
 277.
 
