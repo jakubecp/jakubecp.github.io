@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers 
+title: Papers and Proceedings
 ---
 
 More info on my [Research Gate profile](https://www.researchgate.net/profile/Pavel_Jakubec2)
@@ -16,7 +16,7 @@ More info on my [Research Gate profile](https://www.researchgate.net/profile/Pav
 
 
 ### 2015
-
+* Jakubec P & Ruzicka J (__2015__) DIs the type of soil an important factor determining the local abundance of carrion beetles (Coleoptera: Silphidae)?. _European Journal of Entomology_: __112__, pp 747-754. [link]](http://www.eje.cz/artkey/eje-201504-0021_is_the_type_of_soil_an_important_factor_determining_the_local_abundance_of_carrion_beetles_coleoptera_silphid.php)
 
 ### 2014
 
@@ -25,5 +25,5 @@ More info on my [Research Gate profile](https://www.researchgate.net/profile/Pav
 
 
 ### 2012
-* Jakubec P & Ruzicka J (__2012__) Distribution of open landscape carrion beetles ( Coleoptera : Silphidae ) in selected lowlands of the Czech Republic. _Klapalekiana_: __48__, pp 169-189. [[link]](/pdf/Jakubec&Ruzicka2012Klapalekiana_Silphidae_CZ.pdf)
+* Jakubec P & Ruzicka J (__2012__) Distribution of open landscape carrion beetles (Coleoptera : Silphidae) in selected lowlands of the Czech Republic. _Klapalekiana_: __48__, pp 169-189. [[link]](/pdf/Jakubec&Ruzicka2012Klapalekiana_Silphidae_CZ.pdf)
 
