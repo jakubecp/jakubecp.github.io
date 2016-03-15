@@ -9,9 +9,9 @@ permalink:        pretty
 title:            Pavel Jakubec
 tagline:          'Personal webpage'
 description:      'Find me online 
-<a href="https://www.researchgate.net/profile/Pavel_Jakubec2">Research Gate</a>,
-<a href="https://github.com/jakubecp">Github</a> and
-<a href="http://khaar.rajce.idnes.cz/">my photoblog</a>.'
+<a href="https://www.researchgate.net/profile/Pavel_Jakubec2" target="_blank">Research Gate</a>,
+<a href="https://github.com/jakubecp" target="_blank">Github</a> and
+<a href="http://khaar.rajce.idnes.cz/" target="_blank">my photoblog</a>.'
 url:              http://jakubecp.github.io
 
 author:
