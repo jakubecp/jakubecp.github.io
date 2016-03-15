@@ -3,7 +3,7 @@ layout: page
 title: Grants, Papers and Proceedings
 ---
 
-If you are interested in one of my papers, which are not open access, please contact my on my [Research Gate](https://www.researchgate.net/profile/Pavel_Jakubec2){:target="_blank"} profile
+If you are interested in one of my papers, which are not provided as open access, please contact my on my [Research Gate](https://www.researchgate.net/profile/Pavel_Jakubec2){:target="_blank"} profile
 
 
 ### Grants
