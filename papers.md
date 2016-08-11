@@ -26,8 +26,8 @@ If you are interested in one of my papers, which are not provided as open access
 
 
 ### 2016
-* Jakubec P (__2016__) Thermal summation model and instar determination of all developmental stages of necrophagous beetle, _Sciodrepoides watsoni_ (Spence) (Coleoptera: Leiodidae: Cholevinae). _PeerJ_ 4:e1944 https://peerj.com/articles/1944/ [[link]](https://peerj.com/articles/1944/){:target="_blank"} [[analysis code]](https://github.com/jakubecp/sciodrepoides){:target="_blank"} [[photographs]](https://figshare.com/articles/Larval_development_of_Sciodrepoides_watsoni_Coleoptera_Leiodidae_Cholevinae_/1531668){:target="_blank"}
-* 
+* Jakubec P (__2016__) Thermal summation model and instar determination of all developmental stages of necrophagous beetle, _Sciodrepoides watsoni_ (Spence) (Coleoptera: Leiodidae: Cholevinae). _PeerJ_ 4:e1944 https://peerj.com/articles/1944/ [[link]](https://peerj.com/articles/1944/){:target="_blank"}[[analysis code]](https://github.com/jakubecp/sciodrepoides){:target="_blank"}[[photographs]](https://figshare.com/articles/Larval_development_of_Sciodrepoides_watsoni_Coleoptera_Leiodidae_Cholevinae_/1531668){:target="_blank"}
+
 * Knapp M, Baranovska E & Jakubec P (__2016__) Effects of Bait Presence and Type of Preservative Fluid on Ground and Carrion Beetle Samples Collected by Pitfall Trapping. _Environmental Entomology_ nvw047 http://ee.oxfordjournals.org/content/early/2016/06/01/ee.nvw047 [[link]](http://ee.oxfordjournals.org/content/early/2016/06/01/ee.nvw047/){:target="_blank"}
 
 ### 2015
