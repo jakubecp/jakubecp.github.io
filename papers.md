@@ -30,7 +30,7 @@ If you are interested in one of my papers, which are not provided as open access
 
 * Knapp M, Baranovska E & Jakubec P (__2016__) Effects of Bait Presence and Type of Preservative Fluid on Ground and Carrion Beetle Samples Collected by Pitfall Trapping. _Environmental Entomology:_  nvw047, http://ee.oxfordjournals.org/content/early/2016/06/01/ee.nvw047 [[link]](http://ee.oxfordjournals.org/content/early/2016/06/01/ee.nvw047/){:target="_blank"}
  
-* Jakubec P & Růžička J (__2016__) Icones Insectorum Europae Centralis. Coleoptera: Agyrtidae, Silphidae. _Folia Heyrovskyana, Series B_: __26__, pp 1-17 (in Czech and English).
+* Růžička J & Jakubec P (__2016__) Icones Insectorum Europae Centralis. Coleoptera: Agyrtidae, Silphidae. _Folia Heyrovskyana, Series B_: __26__, pp 1-17 (in Czech and English).
 
 ### 2015
 * Jakubec P & Růžička J (__2015__) Is the type of soil an important factor determining the local abundance of carrion beetles (Coleoptera: Silphidae)? _European Journal of Entomology_: __112__, pp 747-754. DOI: 10.14411/eje.2015.071. [[link]](http://www.eje.cz/artkey/eje-201504-0021_is_the_type_of_soil_an_important_factor_determining_the_local_abundance_of_carrion_beetles_coleoptera_silphid.php){:target="_blank"}
